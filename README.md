@@ -6,7 +6,7 @@
 
 I am very much passionate, motivated and self-learner Software Quality Assurance Engineer.  I’ve knowledge of different tools and techniques of Software Quality Assurance like SDLC, STLC, Defect tracking, Bug reporting, Functional, Non-Functional testing types and documentation as well.  I'm an enthusiast about my tasks and willing to put my best efforts to deliver the best.
 
-Skills: Manual Testing | API Testing | Test Report | Bug Report | Automation Testing | Performance Testing | JIRA
+Skills: Web Automation | Manual Testing | API Testing | Test Report | Bug Report | Automation Testing | Performance Testing | JIRA
 
 - 🌱 I’m currently learning Web Automation 
 - 👯 I’m looking to collaborate on github 
