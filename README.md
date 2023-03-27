@@ -1,28 +1,37 @@
-![SQA Engineer](https://scontent.xx.fbcdn.net/v/t1.15752-9/330875802_755426192579884_4185689690227244441_n.jpg?stp=dst-jpg_p206x206&_nc_cat=108&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeE97tmF4F6WqzlwMXan9ihVTZd8j8C8QytNl3yPwLxDKxAg0d0dtqxCgBWDK1BUDK20XuBibvjylRYtav-4LyTW&_nc_ohc=S_gC1D-AdtQAX9HkdQX&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRSyPi8tec0JKLYLPmLUaU81045W-2khtOnLQGAEhqr3Q&oe=6411B534)
+<h1 align="center">Hi 👋, I'm Yusuf Ahmed</h1>
+<h3 align="center">A passionate SQA engineer from Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuf-hridoy&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf-hridoy" /> </p>
 
-### Hi there 👋, my name is Yusuf Ahmed
-#### SQA Engineer
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusuf-hridoy" alt="yusuf-hridoy" /></a> </p>
 
-I am very much passionate, motivated and self-learner Software Quality Assurance Engineer.  I’ve knowledge of different tools and techniques of Software Quality Assurance like SDLC, STLC, Defect tracking, Bug reporting, Functional, Non-Functional testing types and documentation as well.  I'm an enthusiast about my tasks and willing to put my best efforts to deliver the best.
+- 🔭 I’m currently working on **Web automation with selenium & java**
 
-Skills: Web Automation | Manual Testing | API Testing | Test Report | Bug Report | Automation Testing | Performance Testing | JIRA
+- 🌱 I’m currently learning **Cucumber**
 
-- 🌱 I’m currently learning Web Automation 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about SQA 
+- 👯 I’m looking to collaborate on **QA**
 
+- 🤝 I’m looking for help with **Web automation, Manual testing, API testing & Performance testing**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yusuf-Hridoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-yusuf-ahmed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/yousufahmed.ridoy.5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yusuf_hridoy_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Md_Yusuf_Ahmed)  
+- 💬 Ask me about **Software testing**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yusuf-Hridoy)](https://github.com/ryo-ma/github-profile-trophy)
+- 📫 How to reach me **yusuf.cityu.cse@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-Hridoy)](https://github.com/anuraghazra/github-readme-stats)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1nMXd2lvetw6VoKCxuPChPVGHr9zdsMo6?usp=share_link](https://drive.google.com/drive/folders/1nMXd2lvetw6VoKCxuPChPVGHr9zdsMo6?usp=share_link)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusuf-Hridoy&show_icons=true)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/md yusuf ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md yusuf ahmed" height="30" width="40" /></a>
+<a href="https://fb.com/yusuf ahmed hridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yusuf ahmed hridoy" height="30" width="40" /></a>
+<a href="https://instagram.com/yusuf_hridoy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusuf_hridoy_" height="30" width="40" /></a>
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/Yusuf-Hridoy)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Yusuf-Hridoy)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf-hridoy&show_icons=true&locale=en&layout=compact" alt="yusuf-hridoy" /></p>
 
-![Profile views](https://gpvc.arturio.dev/Yusuf-Hridoy)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusuf-hridoy&show_icons=true&locale=en" alt="yusuf-hridoy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-hridoy&" alt="yusuf-hridoy" /></p>
+
