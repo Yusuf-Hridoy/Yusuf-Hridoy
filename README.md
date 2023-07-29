@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusuf-hridoy" alt="yusuf-hridoy" /></a> </p>
 
-- 🔭 I’m currently working on **Web automation with selenium & java**
+- 🔭 I’m currently working on **Banglalink Telecommunications As SQA Engineer**
 
-- 🌱 I’m currently learning **Cucumber**
+- 🌱 I’m currently learning **Cypress**
 
 - 👯 I’m looking to collaborate on **QA**
 
