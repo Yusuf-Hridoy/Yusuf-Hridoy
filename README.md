@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Banglalink Telecommunications As SQA Engineer**
 
-- 🌱 I’m currently learning **Cypress**
+- 🌱 I’m currently learning **Web Automation with Selenium**
 
 - 👯 I’m looking to collaborate on **QA**
 
