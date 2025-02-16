@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusuf-hridoy" alt="yusuf-hridoy" /></a> </p>
 
-- 🔭 I’m currently working on **Banglalink Telecommunications As SQA Engineer**
+- 🔭 I’m currently working on **Selise Digital Platforms As SQA Engineer**
 
 - 🌱 I’m currently learning **Mobile App Automation**
 
