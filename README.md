@@ -1,69 +1,155 @@
-<h1 align="center">Hi 👋, I'm Md Yusuf Ahmed</h1>
-<h3 align="center">🚀 Software Quality Assurance Engineer | Automation Enthusiast | Continuous Learner</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yusuf-hridoy&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yusuf-hridoy&theme=gruvbox&margin-w=10" alt="trophies" />
-  </a>
-</p>
+# Hi there, I'm Md Yusuf Ahmed 👋
 
----
+### Software Quality Assurance Engineer | Automation & SDET Aspirant
 
-### 💼 About Me  
-- 🔭 Currently working at **SDS Managed** as an **SQA Engineer**  
-- 🌱 Deepening my skills in **Automation**  
-- 👯 Open to collaborating on **Automation Frameworks, QA Tools, and Testing Strategies**  
-- 💬 Ask me about **Manual Testing | Automation Testing | API Testing | Performance Testing**  
-- 🤝 Always eager to learn and contribute to **SDET & Full-Stack QA** practices  
-- 📫 Reach me at **yusufahmed.sdet@gmail.com**  
-- 📄 [**View My Resume**](https://drive.google.com/drive/folders/1nMXd2lvetw6VoKCxuPChPVGHr9zdsMo6?usp=share_link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-yusuf-ahmed/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufahmed.sdet@gmail.com )
+[![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1nMXd2lvetw6VoKCxuPChPVGHr9zdsMo6)
+
+</div>
 
 ---
 
-### 🌐 Connect With Me  
-<p align="left">
-<a href="https://linkedin.com/in/md-yusuf-ahmed" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-<a href="https://fb.com/yusufahmedhridoy" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-</a>
+## 🚀 About Me
 
-</p>
+```yaml
+name: Md Yusuf Ahmed
+role: SQA Engineer @ SDS Managed
+experience: ~2 years in Manual, Automation & API Testing
+focus: Test Automation Frameworks & Scalable QA Practices
+goal: Transitioning to SDET / Full-Stack QA
+interests: 
+  - Building robust automation frameworks
+  - Quality engineering best practices
+  - Continuous testing & CI/CD integration
+```
 
----
-
-### 🛠 Languages & Tools  
-<p align="left"> 
-  <!-- Row 1 -->
-  <a href="https://www.cypress.io" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="Cypress" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://playwright.dev/" target="_blank"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://appium.io/" target="_blank"><img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="Appium" width="80" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/selenium.svg" alt="Selenium" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://jmeter.apache.org/" target="_blank"><img src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" width="40" height="40"/></a>
-</p>
-
-<p align="left"> 
-  <!-- Row 2 -->
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
-</p>
+- 🔬 Passionate about **quality-first engineering** and **shift-left testing**
+- 🤖 Building **maintainable, scalable test automation** solutions
+- 🌱 Currently deepening expertise in **advanced automation patterns** and **performance testing**
+- 💡 Open to collaborating on **automation frameworks, test utilities & QA tooling**
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-hridoy&langs_count=8&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusuf-hridoy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yusuf-hridoy&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Testing & Automation
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+
+### Languages & Databases
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
+
+---
+
+## 💼 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ Framework Development
+- Design & implement **Page Object Model (POM)** frameworks
+- Create reusable test components and utilities
+- Establish coding standards and best practices
+
+</td>
+<td width="50%">
+
+### 🧪 Test Automation
+- Write **reliable, maintainable test suites**
+- End-to-end, API, and integration testing
+- Cross-browser & cross-platform validation
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Quality Assurance
+- Improve test coverage & release confidence
+- Performance and load testing
+- Defect tracking and root cause analysis
+
+</td>
+<td width="50%">
+
+### 🔄 CI/CD Integration
+- Automate test execution in pipelines
+- Generate comprehensive test reports
+- Enable continuous testing workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```mermaid
+graph LR
+    A[Manual Testing] --> B[Test Automation]
+    B --> C[Framework Design]
+    C --> D[SDET Role]
+    D --> E[Quality Engineering]
+    
+    style A fill:#2ea043
+    style B fill:#58a6ff
+    style C fill:#bc8cff
+    style D fill:#f778ba
+    style E fill:#ffa657
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm always open to discussing **QA strategies**, **automation challenges**, and **quality engineering practices**!
+
+📧 **Email:** yusufahmed.sdet@gmail.com  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/md-yusuf-ahmed/)  
+📄 **Resume:** [View my detailed resume](https://drive.google.com/drive/folders/1nMXd2lvetw6VoKCxuPChPVGHr9zdsMo6)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=your-github-username&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+**⭐ Focused on quality, automation, and continuous improvement**
+
+</div>
