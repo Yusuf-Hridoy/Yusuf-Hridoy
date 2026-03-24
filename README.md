@@ -5,10 +5,6 @@
 
 ### Software Quality Assurance Engineer | Automation & SDET Aspirant
 
-# Hi there, I'm Md Yusuf Ahmed 👋
-
-### Software Quality Assurance Engineer | Automation & SDET Aspirant
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-yusuf-ahmed/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufahmed.sdet@gmail.com )
 [![Resume](https://img.shields.io/badge/Resume-View-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1nMXd2lvetw6VoKCxuPChPVGHr9zdsMo6)
