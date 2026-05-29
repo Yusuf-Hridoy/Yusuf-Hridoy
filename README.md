@@ -21,10 +21,9 @@
 
 ```python
 yusuf = {
-    "role"        : "AI Quality Engineer @ SDS Manager (Norway, Remote)",
+    "role"        : "SQA @ SDS Manager (Norway, Remote)",
     "experience"  : "3 years — SaaS · Fintech · Telecom",
     "building"    : "QA-Genius — AI-powered SQA toolkit (Gemini + LangChain)",
-    "certs"       : ["Anthropic MCP (2026)", "Microsoft Playwright (2024)"],
     "open_to"     : ["Remote SDET roles", "Freelance automation", "AI QA collabs"],
     "location"    : "Dhaka, Bangladesh 🇧🇩",
 }
