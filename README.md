@@ -77,8 +77,6 @@ yusuf = {
 | Project | Description | Stack |
 |---|---|---|
 | 🤖 **QA-Genius** | AI-powered SQA toolkit — test case gen, bug reports, automation scripts, schema validation | Streamlit · Gemini · LangChain |
-| 👁️ **AI Visual Validation** | Screenshot diff pipeline with AI-powered visual regression | Playwright · Pixelmatch · Claude Vision |
-| 🔧 **Auto-healing Locators** | Playwright framework that recovers broken locators using AI | Playwright · Python · LLM |
 | 🎭 **Playwright Automation Suite** | Scalable UI test suite with POM architecture + GitHub Actions CI | Playwright · JS · GitHub Actions |
 | 🌲 **Cypress POM Framework** | End-to-end Cypress framework with HTML reporting | Cypress · JS |
 | 📮 **API Test Collection** | REST API suite (functional, negative, boundary) with Newman CLI | Postman · Newman |
